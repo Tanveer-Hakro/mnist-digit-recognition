@@ -1,0 +1,17 @@
+[
+  {
+    "file": "dataset/mnist.py",
+    "source": "https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/master/dataset/mnist.py",
+    "sha256": "b4088f8194129efbac16f4a7ecdcad0cb9e434f0e6de3c940c08d44573dc1ff9"
+  },
+  {
+    "file": "third_party/KOKI_SAITOH_LICENSE.md",
+    "source": "https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/master/LICENSE.md",
+    "sha256": "8adc0e4d6a0a92d483029673e2515a6d17e99c1921d9e73a2bb434583578f09c"
+  },
+  {
+    "file": "assets/sample_weight.pkl",
+    "source": "https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/master/ch03/sample_weight.pkl",
+    "sha256": "b7f55a27988ba34c3777b0f1bbd464817c8a4db855723e6ff26f703501917a13"
+  }
+]
